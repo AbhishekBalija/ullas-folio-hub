@@ -16,6 +16,16 @@ const Hero = ({ data }: HeroProps) => {
   return (
     <section className="min-h-screen flex items-center justify-center px-6 py-20">
       <div className="max-w-4xl mx-auto text-center space-y-8 animate-fade-in">
+        <div className="flex justify-center mb-8">
+          <div className="relative w-48 h-48 md:w-56 md:h-56">
+            <img 
+              src="/profile.png" 
+              alt={data.name}
+              className="w-full h-full object-cover rounded-full shadow-lg ring-4 ring-accent/20"
+            />
+          </div>
+        </div>
+        
         <div className="space-y-4">
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
             {data.name}
