@@ -1,0 +1,32 @@
+{
+  "name": "MH Ullasa",
+  "title": "Software Developer",
+  "college": "RNSIT",
+  "department": "ISE",
+  "location": "Bangalore",
+  "contact": "8431115493",
+  "email": "Ullasamh46@Gmail.com",
+  "bio": "Passionate software developer specializing in full-stack development. Currently pursuing ISE at RNSIT, Bangalore.",
+  "skills": [
+    {
+      "name": "Java",
+      "level": 85
+    },
+    {
+      "name": "Python",
+      "level": 80
+    },
+    {
+      "name": "HTML",
+      "level": 90
+    },
+    {
+      "name": "DBMS",
+      "level": 75
+    }
+  ],
+  "social": {
+    "instagram": "https://www.instagram.com/ullaz_mh?igsh=cWhhaHR1NmRkeHVz",
+    "linkedin": "https://www.linkedin.com/in/ullas-mh-5981b9333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+  }
+}
